@@ -1,4 +1,4 @@
+var design = Rectangle(100,100,100,100);
 function draw(){
-  fill("red");
-  rect(100,100,20,20);
+  design.display();
 }
