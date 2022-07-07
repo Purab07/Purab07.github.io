@@ -4,5 +4,4 @@ function setup()
   ctx.fillStyle = "green";
   ctx.rect(100,100,100,100);
   ctx.fill();
-  var canvas = createCanvas(1000,1000);
 }
