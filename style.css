@@ -29,9 +29,8 @@
 
 body {
   margin:0;
-  background-color: purple;
 }
 
-h3{
-  font-style: tahoma;
+html{
+  font: tahoma;
 }
