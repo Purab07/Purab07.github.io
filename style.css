@@ -1,3 +1,7 @@
+h3{
+  font-family: "Courier";
+}
+
 .navbar {
   overflow: hidden;
   top: 10;
@@ -30,6 +34,4 @@ body {
   background-color: "BlanchedAlmond";
 }
 
-h3{
-  font-family: "Courier";
-}
+
