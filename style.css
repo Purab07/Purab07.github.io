@@ -2,6 +2,10 @@ h3, span {
   font-family: "Courier";
 }
 
+h1 {
+  font-family: Garamond;
+}
+
 .navbar {
   overflow: hidden;
   top: 10;
