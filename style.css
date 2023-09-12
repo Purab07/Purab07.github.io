@@ -2,6 +2,11 @@ h3, span {
   font-family: "Courier";
 }
 
+#emailButton {
+  color: blue;
+  text-decoration: underline;
+}
+
 h1 {
   font-family: Garamond;
 }
